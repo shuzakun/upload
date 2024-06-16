@@ -1,0 +1,93 @@
+============説明============
+主な機能
+・Spammer　・AFK　・AAgen
+・Voice Player　・mp3ダウンローダー
+
+):>Spammer
+:チャットがあるゲームでスパムします
+
+・Random Speed
+ランダムなスピードでメッセージを送信します
+-レートリミットなど、スパム検知を回避します
+
+・Random String
+メッセージの後にランダムな文字列をn個追加します
+-スパム検知を回避します
+>String Amout
+Random Stringの追加するn個(数字)を入力
+
+・Message
+右側入力欄のメッセージ1(Message=送信する内容)メッセージ2(Message2=送信する内容)
+のメッセージの内容を選択
+>Message :メッセージ1だけを送信
+>Message2 :メッセージ2だけを送信
+>all
+メッセージ1、メッセージ2を交互に送信
+
+・Random all
+メッセージ1、メッセージ2をランダムに送信
+
+[ゲーム内のチャットキーをconfigで設定してください(chat_key):初期設定だとenter]
+
+):>AFK
+ゲームでキー入力します
+-放置検知を回避します
+
+・Random Move
+8方向にランダムに移動します
+-1箇所にスタック難いため検知されにくくなります
+
+・Valorant Mode
+Valorantにある入力をします
+-valorantで検知されにくくなります
+
+・Premier Mode
+移動が1秒から最大n秒のランダムな時間長押しになります
+-移動する範囲が広くなるために検知されにくくなります
+>Maximum
+最大n秒を入力できます
+
+・Auto Surrender
+ランダムな秒数で降参キー(キーorチャット)を使用します
+
+・Auto FFchat
+降参投票を開始します(/ffで降参を開始するゲームのみ※valorant)
+
+・Auto FreeSkill
+自動でスキルを使います(スキルキーの次左クリックするスキルのみ)
+
+[ゲーム内のキーをconfigで設定してください]
+
+):>AAgen
+ アスキーアートを生成します(valorant)
+-日本語未対応・6文字以内・6行まで改行可能 ロークオリティです
+
+):>Voice Player
+Voice Chatに音声ファイルを再生します
+
+・出力先を選択
+-仮想ケーブルを選択してください(おすすめ:VB Audio)
+インストール:https://vb-audio.com/Cable/
+
+・Add to Playlist
+再生する音声ファイルを選択してプレイリストに追加
+
+・Remove to Playlist
+再生する音声ファイルを選択してプレイリストから削除
+
+・Load :プレイリストをロード
+・Save :プレイリストをセーブ
+
+):>Downloader
+youtubeからmp3でダウンロードします
+-ffmpeg ffprobe がないとmp3でダウンロードできません
+
+):>Config
+ホットキーなどを設定します
+-細かく設定するにはconfig.jsonをメモ帳などで開き設定してください
+
+):>import
+ツールの設定をロードします
+
+):>Backup
+ツールの設定をセーブします
