@@ -1,0 +1,38 @@
+{
+  "account": {
+    "Admin": {
+      "password": "WORAdmin",
+      "hwid": "0B0945C1-0BAE-11F0-A45E-28D04301F977"
+    },
+    "shuzakun": {
+      "password": "Dvg0QNUdfe949qYl",
+      "hwid": "0B0945C1-0BAE-11F0-A45E-28D04301F977"
+    },
+    "minto": {
+      "password": "mintosaba",
+      "hwid": "DF58AC80-C6EE-11ED-BE26-A1874AE70E00"
+    },
+    "morrie": {
+      "password": "keisuke",
+      "hwid": "8550DA7C-48F3-2B5E-29FD-C87F546A62A3"
+    },
+    "ruma": {
+      "password": "kimonekonodorei",
+      "hwid": "F659A1A8-7B77-0000-0000-000000000000"
+    },
+    "kirineko": {
+      "password": "rumakimoi",
+      "hwid": "221F9080-9665-11EC-9B92-31D6EFE51100"
+    }
+  },
+  "info": {
+    "ver": "2.2.3",
+    "dl_link": "https://www.dropbox.com/scl/fi/677i89jhhrnkvzjvbgggg/WOR-2.2.3.zip?rlkey=2irr918z5f44gzhwf22nf65j0&st=nkrj66sq&dl=1",
+    "file_name": "NewVersion.zip",
+    "pass": "7dPR6s6pCT5SW0VykBpUeUNm26C6vQB3t459",
+    "webhook": "https://discord.com/api/webhooks/1147769412011696188/_QGkWyGkXJD28uJ6JSVaft8sAK2qucBDBXC9LEZyPMAdWpqJYq36wM4HorB9Gx0uvpOc"
+  },
+  "bug_info": "・afkの機能とチャットを使う機能に被ってしまうバグがあります\n上記は修正しません\n他のバグはまだ確認できていません:)",
+  "notification_info": "・Youtubeで動画が公開されました!: None\n・Discordサーバーが公開されました!: None\n・Twitterが公開されました!: toolupload\n・オーディオファイルをゲーム内に再生する機能※と\n　Youtubeをmp3ダウンロードする機能が追加されました\n※使用するには別のソフトウェアをインストールし準備する必要があります",
+  "note_content": "Note:\n・raw input buffaをoffにしてください.\n・config.jsonで細かいキー設定を変えることが出来ます.\n・Voice Playerは VB-Audio などの仮想オーディオデバイスをインストール後、\n使用先のゲーム内と当アプリ内で選択することによって使用できます.\n・クリップボードを使用する為、履歴などは無くなると考えてください"
+}
