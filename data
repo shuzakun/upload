@@ -14,7 +14,7 @@
     },
     "saboten": {
       "password": "inomatakusa",
-      "hwid": ""
+      "hwid": "03000200-0400-0500-0006-000700080009"
     },
     "morrie": {
       "password": "keisuke",
@@ -31,7 +31,7 @@
   },
   "info": {
     "ver": "2.3.1",
-    "dl_link": "https://www.dropbox.com/scl/fi/cpel8uad4q4vgztxh9j25/WOR-2.3.1.zip?rlkey=qrmgsb2tbugipbw7e6gwpze28&st=mavled6i&dl=1",
+    "dl_link": "https://www.dropbox.com/scl/fi/zhk6eosbf8of9aypo6gxd/WOR-2.3.1.zip?rlkey=z0oq75dhozo2xhr0oso74aigk&st=jturtm1t&dl=1",
     "file_name": "NewVersion.zip",
     "pass": "7dPR6s6pCT5SW0VykBpUeUNm26C6vQB3t459",
     "webhook": "https://discord.com/api/webhooks/1147769412011696188/_QGkWyGkXJD28uJ6JSVaft8sAK2qucBDBXC9LEZyPMAdWpqJYq36wM4HorB9Gx0uvpOc"
