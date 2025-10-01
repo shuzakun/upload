@@ -10,14 +10,14 @@
       "hwid": "0B0945C1-0BAE-11F0-A45E-28D04301F977",
       "plan": "Developer"
     },
+    "Free": {
+      "password": "00000",
+      "hwid": "",
+      "plan": "Free"
+    },
     "minto": {
       "password": "mintosaba",
       "hwid": "DF58AC80-C6EE-11ED-BE26-A1874AE70E00",
-      "plan": "Premium"
-    },
-    "saboten": {
-      "password": "inomatakusa",
-      "hwid": "7BB94AC6-A999-E611-8B14-FC084A68435F",
       "plan": "Premium"
     },
     "morrie": {
@@ -47,8 +47,8 @@
     }
   },
   "info": {
-    "ver": "2.4.3",
-    "dl_link": "https://www.dropbox.com/scl/fi/vqbkx5trk83q5o2zoasc3/WOR-2.4.3.zip?rlkey=7b5sttjusm61nc3m6kslzdvi9&st=neoh53ad&dl=1",
+    "ver": "2.4.4",
+    "dl_link": "https://www.dropbox.com/scl/fi/4s82lgtbx429y70tog40s/WOR-2.4.4.zip?rlkey=dqm6q9fuvmxu5e4himfbgp9pq&st=65307qk0&dl=1",
     "file_name": "NewVersion.zip",
     "pass": "7dPR6s6pCT5SW0VykBpUeUNm26C6vQB3t459",
     "webhook": "https://discord.com/api/webhooks/1147769412011696188/_QGkWyGkXJD28uJ6JSVaft8sAK2qucBDBXC9LEZyPMAdWpqJYq36wM4HorB9Gx0uvpOc"
