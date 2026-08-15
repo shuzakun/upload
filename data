@@ -36,13 +36,18 @@
       "plan": "Premium"
     },
     "minimaki": {
-      "password": "eieinnoplatinum",
+      "password": "nekama",
       "hwid": "C9ED3449-5E53-4FC3-AA78-04421A04FFC3",
       "plan": "Premium"
     },
     "ruma": {
       "password": "kimonekonodorei",
       "hwid": "F659A1A8-7B77-0000-0000-000000000000",
+      "plan": "Premium"
+    },
+    "saboten": {
+      "password": "yusin2026",
+      "hwid": "7BB94AC6-A999-E611-8B14-FC084A68435F",
       "plan": "Premium"
     },
     "kirineko": {
@@ -52,8 +57,8 @@
     }
   },
   "info": {
-    "ver": "2.4.5",
-    "dl_link": "https://www.dropbox.com/scl/fi/ff1k6b1s5rjecj1fq5t5i/WOR-2.4.5.zip?rlkey=ozqs9tt51p5o9md32asoh7svz&st=4nb1d9dm&dl=1",
+    "ver": "2.4.6",
+    "dl_link": "https://www.dropbox.com/scl/fi/3m08fsyhjt06xwahksqyl/WOR-2.4.6.zip?rlkey=ug0t5djkgaxa8rb9wx9nr4ztg&st=cnof7n0w&dl=1",
     "file_name": "NewVersion.zip",
     "pass": "7dPR6s6pCT5SW0VykBpUeUNm26C6vQB3t459",
     "webhook": "https://discord.com/api/webhooks/1147769412011696188/_QGkWyGkXJD28uJ6JSVaft8sAK2qucBDBXC9LEZyPMAdWpqJYq36wM4HorB9Gx0uvpOc"
